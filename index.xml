@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <dataIndex xmlns="http://www.battlescribe.net/schema/dataIndexSchema" battleScribeVersion="2.03" name="Slaugth Intendants">
   <dataIndexEntries>
-    <dataIndexEntry filePath="Slaugth_Intendant_Dominion_HH1.catz" dataType="catalogue" dataId="eb177e79-4448-55a9-afb4-a7e66f51a88b" dataName="(HH V1) Slaugth Intendant - Dominion Detachment (Fanmade)" dataBattleScribeVersion="2.03" dataRevision="1" />
+    <dataIndexEntry filePath="Slaugth_Intendant_Dominion_HH1.catz" dataType="catalogue" dataId="eb177e79-4448-55a9-afb4-a7e66f51a88b" dataName="(HH V1) Slaugth Intendant - Dominion Detachment (Fanmade)" dataBattleScribeVersion="2.03" dataRevision="2" />
   </dataIndexEntries>
 </dataIndex>
